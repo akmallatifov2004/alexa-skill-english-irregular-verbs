@@ -1,4 +1,4 @@
-<a href="https://www.amazon.it/sfal-Paradigmi-Inglesi/dp/B07Z4MCDSP/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=paradigmi+inglesi&qid=1571733872&s=digital-skills&sr=1-1"><img src="https://images-na.ssl-images-amazon.com/images/I/610NcFQ1nHL.png" title="ParadigmiInglesi" alt="ParadigmiInglesi"></a>
+<a href="https://www.amazon.it/sfal-Paradigmi-Inglesi/dp/B07Z4MCDSP/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=paradigmi+inglesi&qid=1571733872&s=digital-skills&sr=1-1"><img src="https://i.imgur.com/Cinx9S2.png" title="ParadigmiInglesi" alt="ParadigmiInglesi"></a>
 
 # Alexa Skill: Paradigmi Inglesi (English Idioms)
 
